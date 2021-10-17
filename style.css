@@ -9,3 +9,11 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif; 
 }
+
+body {
+    background-color: #1B2029;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    min-height: 100vh;
+}
